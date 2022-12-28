@@ -4,6 +4,8 @@ OBS: O App 1 foi a lista da minha resolução onde utilizei uma lista de uma cla
 Comparable e nem seus metodos.
    O App2 foi o modo que o professor queria que fosse feito. As Classes Subtipos de Object(Integer, String, Double etc) ja possuem em suas implementações 
 o Comparable
+
+
 Ex: Em um portal de cursos online, cada usuário possui um código único, representado por
 um número inteiro.
 Cada instrutor do portal pode ter vários cursos, sendo que um mesmo aluno pode se
